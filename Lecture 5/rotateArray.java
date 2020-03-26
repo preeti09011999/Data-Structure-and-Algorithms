@@ -21,7 +21,7 @@ public static void main(String[] args)  {
     int rotation = n - k;
     int[] narr = new int[n]; 
     int pos = 0;
-    for(int j=rotation;j<n;j++){
+    for(int j=rotation;j<n;j++){    
         narr[pos] = arr[j];
         pos++;
     }
