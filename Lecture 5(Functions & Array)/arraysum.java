@@ -18,7 +18,6 @@ public static void main(String[] args) throws Exception {
     int n2 = scn.nextInt();
     int arr2[] = new int[n2];
     insert(arr2,scn);
-    
     sum(arr1, arr2);
 }
 
