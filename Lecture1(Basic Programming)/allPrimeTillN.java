@@ -4,7 +4,6 @@
 //  4. For the range print all the primes numbers between low and high (both included)
 
 import java.util.*;
-   
    public class Main{
        public static void main(String[] args) {
            // write your code here
@@ -16,8 +15,7 @@ import java.util.*;
                for(int i =2;i*i<=ul;i++){
                    if(ul%i==0){
                        isP =0;
-                   }
-                   
+                   }      
                }
                if(isP==1){
                    System.out.println(ul);
