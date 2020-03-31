@@ -6,7 +6,6 @@
 import java.util.*;
   
   public class Main{
-  
   public static void main(String[] args) {
       Scanner scn = new Scanner(System.in);
       int n = scn.nextInt();
@@ -25,9 +24,7 @@ import java.util.*;
           else{
               System.out.println("not prime");
           }
-          
           n = n-1;
       }         
-  
    }
   }
