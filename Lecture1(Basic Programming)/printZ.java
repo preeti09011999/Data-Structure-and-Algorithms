@@ -8,5 +8,6 @@ import java.util.*;
          	         System.out.println("  *");
          	         System.out.println(" *");
          	         System.out.println("*****");
+                        
               }
          }
