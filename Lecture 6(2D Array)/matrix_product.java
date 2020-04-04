@@ -40,7 +40,7 @@ public class Main{
     }
     
 public static void main(String[] args) throws Exception {
-    // write your code here
+    
     Scanner scn = new Scanner(System.in);
     int row1 = scn.nextInt();
     int col1 = scn.nextInt();
