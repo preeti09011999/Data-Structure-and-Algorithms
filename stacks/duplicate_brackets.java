@@ -21,7 +21,7 @@ public class Main {
                     while(st.peek()!='('){
                         st.pop();
                     }
-                    st.pop();
+                    st.pop(); 
                 }
         
             }else{
