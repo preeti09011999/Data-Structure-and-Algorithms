@@ -21,7 +21,7 @@ public class Main {
         head = tail = temp;
       } else {
         tail.next = temp;
-        tail = temp;
+        tail = temp; 
       }
 
       size++;
