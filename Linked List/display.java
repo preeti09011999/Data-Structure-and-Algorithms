@@ -22,7 +22,7 @@ public class Main {
       } else {
         tail.next = temp;
         tail = temp;
-      }
+      } 
 
       size++;
     }
