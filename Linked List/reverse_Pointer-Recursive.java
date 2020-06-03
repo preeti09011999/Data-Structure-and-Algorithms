@@ -13,7 +13,7 @@ public class Main {
     int size;
 
     void addLast(int val) {
-      Node temp = new Node();
+      Node temp = new Node(); 
       temp.data = val;
       temp.next = null;
 
