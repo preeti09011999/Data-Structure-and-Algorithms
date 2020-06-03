@@ -9,7 +9,7 @@ public class Main {
 
   public static class LinkedList {
     Node head;
-    Node tail;
+    Node tail; 
     int size;
 
     void addLast(int val) {
