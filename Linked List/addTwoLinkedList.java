@@ -5,7 +5,7 @@ public class Main {
   public static class Node {
     int data;
     Node next;
-  }
+  } 
 
   public static class LinkedList {
     Node head;
