@@ -10,7 +10,7 @@ public class Main {
   public static class LinkedList {
     Node head;
     Node tail;
-    int size;
+    int size; 
 
     void addLast(int val) {
       Node temp = new Node();
