@@ -19,7 +19,7 @@ public class Main{
             if(input[i] == -1){
                 // end of a node means it has no more children
                 st.pop();
-            }else{
+            }else{ 
                 Node node = new Node(input[i]);
                 // to search for the parent of the node
                 Node parent = st.peek();
