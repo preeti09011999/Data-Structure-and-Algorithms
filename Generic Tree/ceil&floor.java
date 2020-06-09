@@ -52,7 +52,7 @@ public class Main {
       if(node.data < ceil){
         ceil = node.data;
       }
-    }
+    } 
 
     if(node.data < data){
       if(node.data > floor){
