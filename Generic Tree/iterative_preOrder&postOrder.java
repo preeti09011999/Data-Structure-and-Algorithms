@@ -25,7 +25,7 @@ public class Main {
     System.out.println(str);
 
     for (Node child : node.children) {
-      display(child);
+      display(child); 
     }
   }
 
