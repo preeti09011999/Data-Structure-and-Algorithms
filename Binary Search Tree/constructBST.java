@@ -9,7 +9,7 @@ public static class Node{
     
     Node(int data){
         this.data = data;
-    }
+    } 
     Node(int data, Node lc, Node rc){
         this.data = data;
         this.left = lc;
