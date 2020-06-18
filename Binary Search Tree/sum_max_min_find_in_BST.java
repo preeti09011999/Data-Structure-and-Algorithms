@@ -14,7 +14,7 @@ public class Main {
     }
   }
 
-  public static class Pair {
+  public static class Pair { 
     Node node;
     int state;
 
@@ -22,7 +22,7 @@ public class Main {
       this.node = node;
       this.state = state;
     }
-  }
+  } 
 
   public static Node construct(Integer[] arr) {
     Node root = new Node(arr[0], null, null);
