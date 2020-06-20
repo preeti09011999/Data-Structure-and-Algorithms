@@ -8,7 +8,7 @@ public class Main {
     Node right;
 
     Node(int data, Node left, Node right) {
-      this.data = data;
+      this.data = data; 
       this.left = left;
       this.right = right;
     }
