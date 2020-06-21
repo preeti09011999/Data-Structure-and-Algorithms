@@ -6,7 +6,7 @@ public static void main(String[] args) {
 
 // write your code here.
     PriorityQueue<String> pq = new PriorityQueue<>();
-    pq.add("Aaman");
+    pq.add("Aaman"); 
     pq.add("sgjh");
     pq.add("Kal");
     pq.add("khs");
