@@ -10,7 +10,7 @@ public class Main {
 
       for (int i = 0; i < n; i++) {
          arr[i] = Integer.parseInt(br.readLine());
-      }
+      } 
 
       int k = Integer.parseInt(br.readLine());
       PriorityQueue<Integer> pq = new PriorityQueue<>();
