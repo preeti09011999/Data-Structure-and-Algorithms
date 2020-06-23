@@ -5,7 +5,7 @@ public class Main {
   public static class Node {
     int data;
     Node left;
-    Node right;
+    Node right; 
 
     Node(int data, Node left, Node right) {
       this.data = data;
