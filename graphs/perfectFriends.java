@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-   static class Edge{
+   static class Edge{ 
        int vrtx;
        int nbr;
     
