@@ -30,7 +30,7 @@ public class Main {
       }
 
       int edges = Integer.parseInt(br.readLine());
-      for (int i = 0; i < edges; i++) {
+      for (int i = 0; i < edges; i++) { 
          String[] parts = br.readLine().split(" ");
          int v1 = Integer.parseInt(parts[0]);
          int v2 = Integer.parseInt(parts[1]);
