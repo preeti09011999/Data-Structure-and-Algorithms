@@ -30,7 +30,7 @@ public class Main {
                 // // move helperQ elements to mainQ
                 // while (helperQ.size() > 0) {
                 //     mainQ.add(helperQ.remove());
-                // }
+                // } 
                 // ------------method 2-------------------
                 // 1. Add val to helperQ
                 helperQ.add(val);
