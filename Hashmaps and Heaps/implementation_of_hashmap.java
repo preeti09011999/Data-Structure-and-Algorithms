@@ -8,7 +8,7 @@ public class Main{
             HMNode(K key,V value){
                 this.key = key;
                 this.value = value;
-            }
+            } 
         }
         
         private LinkedList<HMNode>[] buckets;
