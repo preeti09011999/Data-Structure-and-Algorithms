@@ -7,7 +7,7 @@ public class Main {
     ArrayList<Integer> data;
 
     public PriorityQueue() {
-      data = new ArrayList<>();
+      data = new ArrayList<>(); 
     }
     
     public void swap(int idx1,int idx2){
