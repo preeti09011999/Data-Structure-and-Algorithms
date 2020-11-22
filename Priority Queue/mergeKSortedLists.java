@@ -4,8 +4,8 @@ import java.util.*;
 public class Main {
     
     public static class Pair implements Comparable<Pair>{
-        int li;
-        int di;
+        int li; // list index
+        int di; // data index
         int val;
         Pair(int li,int di, int val){
             this.li = li;
