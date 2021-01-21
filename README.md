@@ -1,2 +1,2 @@
 # Data Structure and Algorithms
-This repository contains all content taught in the placement program
+This repository contains all the important DS ALGO questions
